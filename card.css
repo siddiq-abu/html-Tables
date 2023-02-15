@@ -1,0 +1,13 @@
+.center{
+    text-align: center;
+    /* background-color: aquamarine; */
+}
+
+.title{
+    color: teal;
+}
+
+.img{
+    width: 250px;
+    height: 200px;
+}

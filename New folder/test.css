@@ -1,0 +1,12 @@
+body{
+    background-color: aliceblue;
+    font-family: 'Roboto Mono',monospace;
+}
+
+.herodiv{
+    background-image: url(../../IMG_4791.JPG);
+    height: 400px;
+    width: 100%;
+    text-align: center;
+    color: aliceblue;
+}

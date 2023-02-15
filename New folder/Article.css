@@ -1,0 +1,21 @@
+
+
+
+#div-one{
+    height: 100px;
+    width: 100%;
+    align-items: center;
+    background-color: pink;
+    display: flex;
+    justify-content: space-around;
+
+}
+#div-two{
+     align-items: center;
+    display: flex;
+}
+#content-section{
+    height: 500px;
+    width: 100%;
+    background-color: aqua;
+}

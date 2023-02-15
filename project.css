@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+    font-family: 'Roboto Mono',monospace;
+    font-weight: 100;
+  
+}
+.title{
+    color: darkred;
+
+}
+
+.center{
+    background-color: aquamarine;
+text-align: center;
+}
+
+
+.img{
+width: 600px;
+height: 300px;
+}

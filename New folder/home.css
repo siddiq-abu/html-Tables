@@ -1,0 +1,83 @@
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+#top-header{
+    height: 100px;
+    width: 100%;
+    background-color:teal;
+    /* border-style: solid; */
+}
+
+#content-section{
+
+    padding: 20px;
+
+    height: 500px;
+
+    width: 100%;
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.content-child{
+    width: 45%;
+    height: 500px;
+    background-color:aliceblue;
+    border-style: solid;
+}
+
+#box-content{
+    background-color: aliceblue;
+    border-style: solid;
+}
+
+#picture-container{
+    height: 400px;
+    width: 100%;
+    /* background-color: yellow; */
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    /* background-repeat: no-repeat; */
+    /* background-size: contain; */
+}
+.picture-cards{
+    height: 170px;
+    width: 150px;
+    background-color: red;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+#card-one{
+    background-image: url(https://images.unsplash.com/photo-1641168780506-821166020087?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Z2FsbGFyeSUyMHBpY3R1cmVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60);
+}
+
+#card-two{
+    background-image: url(https://media.istockphoto.com/id/1202793983/photo/spice-gallary.jpg?b=1&s=170667a&w=0&k=20&c=EOxmuKH4gXS6veR_KIpXmeyAM6SjsekN0l2o5vye6HQ=);
+}
+
+#card-three{
+    background-image: url(https://media.istockphoto.com/id/1323623618/photo/empty-product-stand-platform-podium-exhibition-modern-architecture-background.jpg?b=1&s=170667a&w=0&k=20&c=MJPczVAdbdcJXyP36Z73IALgDiDYrNNbKSiSacUIIFk=);
+}
+
+#card-four{
+    background-image: url(https://media.istockphoto.com/id/155235006/photo/national-gallary-of-art.jpg?b=1&s=170667a&w=0&k=20&c=BUOB2nQ3tqMQr62LW6uM_6lVWdrGpP6HLSPmK1bKhP0=);
+}
+
+#card-five{
+    background-image: url(https://media.istockphoto.com/id/926239050/photo/empty-brick-wall.jpg?b=1&s=170667a&w=0&k=20&c=oI2iGwkUEi_wOC7BceJc1fDi7-F-WfSGtpod6Hjx5lw=);
+}
+
+#card-six{
+    background-image: url(https://media.istockphoto.com/id/694029086/photo/culture-station-seoul-284-korea.jpg?b=1&s=170667a&w=0&k=20&c=rVl3DDnLcIJNmPNRBWiCIKJO_pcnrE5QxfwbbMCWBqk=);
+}
